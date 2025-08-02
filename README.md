@@ -12,5 +12,13 @@ Download the executable JAR file from the [Releases](https://github.com/your-use
 
 Then run the application using:
 ```java
-java -jar uds-appointment-app.jar
+java -jar UDSApp-1.0-SNAPSHOT.jar
 ```
+## Class Diagram
+![Domain Model UML Class Diagram.png](screenshots/Domain%20Model%20UML%20Class%20Diagram.png)
+
+## Github Release
+![Github Release.png](screenshots/Github%20Release.png)
+
+## Github Workflow
+![Github Workflow.png](screenshots/Github%20Workflow.png)
