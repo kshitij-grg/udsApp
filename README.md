@@ -8,7 +8,7 @@
 
 ## How to Run
 
-Download the executable JAR file from the [Releases](https://github.com/your-username/your-repo/releases) section.
+Download the executable JAR file from my GitHub Repo [Releases](https://github.com/kshitij-grg/udsApp).
 
 Then run the application using:
 ```java
@@ -22,3 +22,6 @@ java -jar UDSApp-1.0-SNAPSHOT.jar
 
 ## Github Workflow
 ![Github Workflow.png](screenshots/Github%20Workflow.png)
+
+## Output
+![Output.png](screenshots/Output.png)
