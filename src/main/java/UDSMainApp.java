@@ -1,14 +1,14 @@
 import repository.AppointmentRepository;
 import util.AppointmentJSONConverterUtil;
 
-public class USDMainApp {
+public class UDSMainApp {
     private final AppointmentRepository appointmentRepository;
 
-    USDMainApp(){
+    UDSMainApp(){
         appointmentRepository = AppointmentRepository.getInstance();
     }
     public static void main(String[] args) {
-        USDMainApp usdMainApp = new USDMainApp();
+        UDSMainApp usdMainApp = new UDSMainApp();
 
         var appointments = usdMainApp.appointmentRepository.getAppointments();
 

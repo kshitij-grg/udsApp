@@ -28,7 +28,7 @@ java {
 jar {
     manifest {
         attributes(
-                'Main-Class': "USDApp"
+                'Main-Class': "UDSMainApp"
         )
     }
 
